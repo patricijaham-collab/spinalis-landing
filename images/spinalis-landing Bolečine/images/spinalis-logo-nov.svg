@@ -1,0 +1,22 @@
+<svg width="260" height="64" viewBox="0 0 260 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SpinaliS logo</title>
+  <desc id="desc">Modern red icon with the SpinaliS wordmark.</desc>
+  <defs>
+    <linearGradient id="spinalis-red" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D32F45"/>
+      <stop offset="1" stop-color="#A3172A"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="6" y="6" width="52" height="52" rx="16" fill="url(#spinalis-red)"/>
+
+  <path d="M26 16.5C31.5 16.5 35.5 18.8 35.5 22.7C35.5 25.8 33.5 27.9 29.7 29.1L22.8 31.1C19.1 32.2 17.6 33.6 17.6 36.5C17.6 40 20.7 42.4 26.3 42.4C30.6 42.4 34.2 41.1 37.1 38.9" stroke="white" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M37.1 38.9C33.6 46.2 27.7 49.4 20.1 49.4C14 49.4 9.3 47.5 6.5 43.8" stroke="white" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M24.5 15L31.1 15.2" stroke="white" stroke-width="4.6" stroke-linecap="round"/>
+  <path d="M30.1 47.6L23.3 47.8" stroke="white" stroke-width="4.6" stroke-linecap="round"/>
+
+  <g fill="#232323">
+    <text x="74" y="39" font-family="'Open Sans', Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-1.3">Spinali</text>
+    <text x="180" y="39" font-family="'Open Sans', Arial, sans-serif" font-size="28" font-weight="300" letter-spacing="-0.8" fill="#C81C30">S</text>
+  </g>
+</svg>
